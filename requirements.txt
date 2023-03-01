@@ -1,2 +1,4 @@
 xmlrunner==1.7.7
-Flask==1.0
+Flask==2.0.3
+Jinja2==3.1.1
+pyinstaller==5.8.0
